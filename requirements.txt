@@ -1,0 +1,13 @@
+boto3
+requests
+cryptography
+python-dotenv
+starlette
+bottle
+streamlit
+tensorflow
+tensorflow_hub
+scikit-learn
+certifi
+tf_keras
+wikipedia
